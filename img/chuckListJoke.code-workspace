@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../../sprint5/chuckListJoke"
+		},
+		{
+			"path": "../../../local-storage"
+		},
+		{
+			"path": "../../../sprint5/U5-Challenge1"
+		},
+		{
+			"path": "../../../sprint5/U5-Challenge2"
+		},
+		{
+			"path": "../../../sprint5/chuck2"
+		},
+		{
+			"path": "../../../../practica"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "boom"
+	}
+}
